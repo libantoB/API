@@ -1,0 +1,23 @@
+*{
+   margin: 0;
+   padding: 5px; 
+}
+
+body{
+    background: rgb(178, 178, 255);
+    text-align: center;
+}
+
+div{
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 20px;
+    background: red;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
